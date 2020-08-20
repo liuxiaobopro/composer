@@ -1,0 +1,14 @@
+{
+    "name": "liuxiaobopro/composer",
+    "description": "liuxiaobo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuxiaobo",
+            "email": "1369924600@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
