@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HelloWorld\\" : "src/"
+            "liuxiaobo\\" : "src/"
         }
     }
 }
