@@ -1,0 +1,21 @@
+{
+    "name": "liuxiaobopro/composer",
+    "description": "commonly used ways",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuxiaobo",
+            "email": "1369924600@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php" : ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\" : "src/"
+        }
+    }
+}
