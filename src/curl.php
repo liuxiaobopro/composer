@@ -42,7 +42,7 @@ class curl
      * @param $isUa
      * @param $cookie
      */
-    public function getHttpInit($url, $randUa, $cookie)
+    private function getHttpInit($url, $randUa, $cookie)
     {
         if (strlen($url) == 0) return '你是想让我去请求二氧化碳嘛!';
         $type = [
