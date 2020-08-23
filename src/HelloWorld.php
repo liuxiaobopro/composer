@@ -33,4 +33,9 @@ class HelloWorld
         $info .= $this->author . "\n";
         return $info;
     }
+
+    public function test()
+    {
+        return 'test;
+    }
 }
