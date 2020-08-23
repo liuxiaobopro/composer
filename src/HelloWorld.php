@@ -36,6 +36,6 @@ class HelloWorld
 
     public function test()
     {
-        return 'test;
+        return 'test';
     }
 }
